@@ -16,7 +16,7 @@
 - 🛠 Loves solving real-world problems with clean, efficient code  
 - 🌱 Currently exploring **Java Spring Boot** and **Cloud architectures**  
 - 💬 Ask me about **MERN Stack, AWS, Java**  
-- ⚡ Fun fact: I debug with music 🎧  
+- 📧 **Reach me at:** amrik.bhadra@gmail.com 
 
 ---
 
