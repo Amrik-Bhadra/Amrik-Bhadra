@@ -67,14 +67,14 @@
 
 ## 📌 Featured Projects
 <p align="left">
-  <a href="https://github.com/TeamIndigo4/sequelizer-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=sequelizer-generator&theme=tokyonight" />
+  <a href="https://github.com/Amrik-Bhadra/aimhire-jobportal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=aimhire-jobportal&theme=tokyonight" />
   </a>
   <a href="https://github.com/Amrik-Bhadra/doubtadda_aws_cicd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=doubtadda_aws_cicd
-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=doubtadda_aws_cicd&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
