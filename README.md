@@ -67,11 +67,12 @@
 
 ## 📌 Featured Projects
 <p align="left">
-  <a href="https://github.com/YourUsername/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=tokyonight" />
+  <a href="https://github.com/TeamIndigo4/sequelizer-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=sequelizer-generator&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YourUsername/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=tokyonight" />
+  <a href="https://github.com/Amrik-Bhadra/doubtadda_aws_cicd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=doubtadda_aws_cicd
+&theme=tokyonight" />
   </a>
 </p>
 
