@@ -1,6 +1,6 @@
 <!-- Profile Header with Typing Animation -->
 <h1 align="center">
-  Hi, I'm <a href="https://yourportfolio.com" target="_blank">Your Name</a> 👋
+  Hi, I'm <a href="https://yourportfolio.com" target="_blank">Amrik Bhadra</a> 👋
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer passionate about building scalable web apps  
-- ☁ Cloud Enthusiast with hands-on AWS & DevOps experience  
+- ☁ Cloud Enthusiast with hands-on AWS Cloud  
 - 🛠 Loves solving real-world problems with clean, efficient code  
-- 🌱 Currently exploring **AI/ML** and **Cloud-native architectures**  
-- 💬 Ask me about **MERN Stack, AWS, Docker, CI/CD**  
-- ⚡ Fun fact: I debug with coffee ☕  
+- 🌱 Currently exploring **Java Spring Boot** and **Cloud architectures**  
+- 💬 Ask me about **MERN Stack, AWS, Java**  
+- ⚡ Fun fact: I debug with music 🎧  
 
 ---
 
