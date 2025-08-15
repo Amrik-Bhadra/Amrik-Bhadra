@@ -71,7 +71,7 @@ https://github.com/TeamIndigo4/sequelizer-generator
 ## 📌 Featured Projects
 <p align="left">
   <a href="https://github.com/TeamIndigo4/sequelizer-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=sequelizer-generator&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamIndigo4&repo=sequelizer-generator&theme=tokyonight" />
   </a>
   <a href="https://github.com/Amrik-Bhadra/aimhire-jobportal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amrik-Bhadra&repo=aimhire-jobportal&theme=tokyonight" />
