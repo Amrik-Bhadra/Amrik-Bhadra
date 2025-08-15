@@ -90,6 +90,9 @@
   <a href="https://amrikbhadraportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/amk_code10/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-%fb6f9254.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
